@@ -5,6 +5,8 @@
 這次作業主要要解ten-bar的問題，再將其以matlab求出最佳解，最後用latex撰寫一份pdf繳交。
 推導過程與最後答案撰寫於Ten_Bar_Homework.Pdf。
 
+Latex於overleaf撰寫，其檔案至於Latex資料夾中。
+
 ## About Matlab Code
 第一部我先設定fmincon的參數，接著用fmincon解ten-bar的問題，再以最佳解帶入公式計算出題目所要求的答案。
 ### function objfun
