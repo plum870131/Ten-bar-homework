@@ -3,7 +3,7 @@
 這是最佳化實驗室暑假作業，作業內容為SOLab_manual_v1.3.pdf中的2.2.1 Ten-bar Truss的部分。
 
 這次作業主要要解ten-bar的問題，再將其以matlab求出最佳解，最後用latex撰寫一份pdf繳交。
-推導過程與最後答案撰寫於Ten_Bar_Homework.Pdf。
+推導過程與最後答案撰寫於Ten_Bar_Homework.pdf。
 最佳化的matlab程式碼為tenbar.m。
 
 Latex於overleaf撰寫，其檔案至於Latex資料夾中。
